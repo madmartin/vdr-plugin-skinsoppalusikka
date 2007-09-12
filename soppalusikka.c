@@ -554,7 +554,7 @@ void cSkinSoppalusikkaDisplayChannel::Flush(void)
 {
   cString date = DayDateTime();
   // draw updated date string
-  osd->DrawText(xt3, yt0, date, Theme.Color(clrChannelNumberDateFg), Theme.Color(clrChannelNumberDateBg), cFont::GetFont(fontSml), xt4 - xt3, yt1 - yt0, taRight);
+  osd->DrawText(xt3, yt0, date, Theme.Color(clrChannelNumberDateFg), Theme.Color(clrChannelNumberDateBg), cFont::GetFont(fontSml), xt4 - xt3, yt2 - yt0, taRight);
   osd->Flush();
 }
 

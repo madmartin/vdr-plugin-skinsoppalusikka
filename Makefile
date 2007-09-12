@@ -57,6 +57,10 @@ endif
 
 OBJS = $(PLUGIN).o soppalusikka.o config.o logo.o i18n.o tools.o
 
+### The main target:
+
+all: libvdr-$(PLUGIN).so
+
 ### Implicit rules:
 
 %.o: %.c
@@ -72,8 +76,6 @@ $(DEPFILE): Makefile
 -include $(DEPFILE)
 
 ### Targets:
-
-all: libvdr-$(PLUGIN).so
 
 libvdr-$(PLUGIN).so: $(OBJS)
 	$(CXX) $(CXXFLAGS) -shared $(OBJS) -o $@

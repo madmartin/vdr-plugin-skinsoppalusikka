@@ -1,11 +1,16 @@
 This is a "Soppalusikka" skin for the Video Disk Recorder (VDR).
 
-Written by:                  R o l f . A h r e n b e r g @ s c i .f i
+Written by:                  Rolf Ahrenberg
+                             < R o l f . A h r e n b e r g @ s c i .f i >
 
 Project's homepage:          http://www.saunalahti.fi/~rahrenbe/vdr/soppalusikka/
 
 Latest version available at: http://www.saunalahti.fi/~rahrenbe/vdr/soppalusikka/
 
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
 See the file COPYING for license information.
 
 Requirements:
@@ -14,8 +19,7 @@ VDR and a spoon for the soup.
 
 Description:
 
-The "Soppalusikka" is a standalone skin is based on "enElchi" text2skin
-addon.
+The "Soppalusikka" is a standalone skin providing the good old "ElchiAIO" looks.
 
 Installation:
 
@@ -23,7 +27,7 @@ cd /put/your/path/here/VDR/PLUGINS/src
 tar -xzf /put/your/path/here/vdr-skinsoppalusikka-X.Y.Z.tgz
 ln -s skinsoppalusikka-X.Y.Z skinsoppalusikka
 mkdir -p /path/to/vdrconf/plugins/skinsoppalusikka
-cp -d skinsoppalusikka/logos/*.xpm /path/to/vdrconf/plugins/skinsoppalusikka/
+cp -d /path/to/channel/logos/*.xpm /path/to/vdrconf/plugins/skinsoppalusikka/
 cp -d skinsoppalusikka/themes/*.theme /path/to/vdrconf/themes/
 cd /put/your/path/here/VDR
 make
@@ -37,8 +41,6 @@ it defaults to "skinsoppalusikka" subdirectory in VDR's configuration
 directory for plugins.
 
 Notes:
-
-- Included logos are available only for non-commercial usage.
 
 - Only XPM format is supported for channel logos: 64x48 pixels and
   13 colors (6 colors on DXR3) or less recommended.

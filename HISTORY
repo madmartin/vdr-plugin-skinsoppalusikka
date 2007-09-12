@@ -123,3 +123,23 @@ VDR Skin 'Soppalusikka' Revision History
 - Added setup option to use a single 8 bpp OSD area.
 - Updated EPGSearch auxiliary information parsing.
 - Added Hungarian translation (Thanks to Füley István).
+
+2007-09-12: Version 1.0.5
+
+- Backported from 1.1.2.
+
+2007-08-14: Version 1.1.0
+
+- Updated for vdr-1.5.7.
+- Minor logo update.
+- Updated French translation (Thanks to neptunvasja @ VDRPortal).
+
+2007-08-19: Version 1.1.1
+
+- Updated for vdr-1.5.8.
+
+2007-09-12: Version 1.1.2
+
+- Cleaned up translations.
+- Fixed date string in channel info.
+- Removed logos.
