@@ -12,7 +12,7 @@ const tI18nPhrase Phrases[] = {
   { "Soppalusikka skin", // English
     "Soppalusikka Oberfläche", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "Interfaccia Soppalusikka", // Italiano
     "", // Nederlands
     "", // Português
     "Skin Soppalusikka", // Français
@@ -34,7 +34,7 @@ const tI18nPhrase Phrases[] = {
   { "Soppalusikka", // English
     "Soppalusikka", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "Soppalusikka", // Italiano
     "", // Nederlands
     "", // Português
     "Soppalusikka", // Français
@@ -56,7 +56,7 @@ const tI18nPhrase Phrases[] = {
   { "min", // English
     "min", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "min", // Italiano
     "", // Nederlands
     "", // Português
     "min", // Français
@@ -78,7 +78,7 @@ const tI18nPhrase Phrases[] = {
   { "Stereo", // English
     "Stereo", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "Stereo", // Italiano
     "", // Nederlands
     "", // Português
     "Stéréo", // Français
@@ -100,7 +100,7 @@ const tI18nPhrase Phrases[] = {
   { "Left", // English
     "Links", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "Sinistra", // Italiano
     "", // Nederlands
     "", // Português
     "Gauche", // Français
@@ -122,7 +122,7 @@ const tI18nPhrase Phrases[] = {
   { "Right", // English
     "Rechts", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "Destra", // Italiano
     "", // Nederlands
     "", // Português
     "Droite", // Français
@@ -144,7 +144,7 @@ const tI18nPhrase Phrases[] = {
   { "Mute", // English
     "Stumm", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "Muto", // Italiano
     "", // Nederlands
     "", // Português
     "Muet", // Français
@@ -166,7 +166,7 @@ const tI18nPhrase Phrases[] = {
   { "Volume", // English
     "Lautstärke", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "Volume", // Italiano
     "", // Nederlands
     "", // Português
     "Volume", // Français
@@ -188,7 +188,7 @@ const tI18nPhrase Phrases[] = {
   { "Show channel logos", // English
     "Kanal-Logos anzeigen", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "Mostra loghi canali", // Italiano
     "", // Nederlands
     "", // Português
     "Afficher logo des chaînes", // Français
@@ -210,7 +210,7 @@ const tI18nPhrase Phrases[] = {
   { "Identify channel by", // English
     "Kanal-Identifikation durch", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "Identifica canale per", // Italiano
     "", // Nederlands
     "", // Português
     "Identifier chaîne par", // Français
@@ -232,7 +232,7 @@ const tI18nPhrase Phrases[] = {
   { "name", // English
     "Name", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "nome", // Italiano
     "", // Nederlands
     "", // Português
     "Nom", // Français
@@ -254,7 +254,7 @@ const tI18nPhrase Phrases[] = {
   { "data", // English
     "ID", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "dati", // Italiano
     "", // Nederlands
     "", // Português
     "Donnée", // Français
@@ -276,7 +276,7 @@ const tI18nPhrase Phrases[] = {
   { "Channel logo cache size", // English
     "Größe des Logo-Caches", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "Dimensione cache logo canale", // Italiano
     "", // Nederlands
     "", // Português
     "Taille du cache des logo", // Français
@@ -298,7 +298,7 @@ const tI18nPhrase Phrases[] = {
   { "Button$Flush cache", // English
     "Cache leeren", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "Pulisci cache", // Italiano
     "", // Nederlands
     "", // Português
     "Supprimer cache", // Français
@@ -320,7 +320,7 @@ const tI18nPhrase Phrases[] = {
   { "Flushing channel logo cache...", // English
     "Logo-Cache wird geleert...", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "Pulizia cache logo canale...", // Italiano
     "", // Nederlands
     "", // Português
     "Suppression du cache...", // Français
@@ -342,7 +342,7 @@ const tI18nPhrase Phrases[] = {
   { "Languages", // English
     "Sprachen", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "Lingue", // Italiano
     "", // Nederlands
     "", // Português
     "Langues", // Français
@@ -364,7 +364,7 @@ const tI18nPhrase Phrases[] = {
   { "Auxiliary information", // English
     "Zusatzinfo", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "Informazione ausiliare", // Italiano
     "", // Nederlands
     "", // Português
     "Information auxiliare", // Français
@@ -386,7 +386,7 @@ const tI18nPhrase Phrases[] = {
   { "Show auxiliary information", // English
     "Zusatzinfo anzeigen", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "Mostra informazione ausiliare", // Italiano
     "", // Nederlands
     "", // Português
     "Afficher information auxiliaire", // Français
@@ -408,7 +408,7 @@ const tI18nPhrase Phrases[] = {
   { "Show progressbar", // English
     "Fortschrittbalken anzeigen", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "Mostra barra avanzamento", // Italiano
     "", // Nederlands
     "", // Português
     "Afficher barre de progression", // Français
@@ -430,7 +430,7 @@ const tI18nPhrase Phrases[] = {
   { "Show symbols", // English
     "Symbole anzeigen", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "Mostra simboli", // Italiano
     "", // Nederlands
     "", // Português
     "Afficher symbole", // Français
@@ -452,7 +452,7 @@ const tI18nPhrase Phrases[] = {
   { "Show VPS in channel info", // English
     "VPS anzeigen", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "Mostra VPS nelle info del canale", // Italiano
     "", // Nederlands
     "", // Português
     "Afficher VPS dans l'info. de la chaîne", // Français
@@ -474,7 +474,7 @@ const tI18nPhrase Phrases[] = {
   { "Use single area (8bpp)", // English
     "Ein Bildbereich benutzen (8bpp)", // Deutsch
     "", // Slovenski
-    "", // Italiano
+    "Utilizza area singola (8bpp)", // Italiano
     "", // Nederlands
     "", // Português
     "", // Français
